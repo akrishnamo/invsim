@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://akrishnamo.github.io',
                 'git_url': 'https://github.com/akrishnamo/invsim',
                 'lib_path': 'invsim'},
-  'syms': {'invsim.sdsim': {'invsim.sdsim.foo': ('sdsim.html#foo', 'invsim/sdsim.py')}}}
+  'syms': { 'invsim.sdsim': { 'invsim.sdsim.clip_date': ('sdsim.html#clip_date', 'invsim/sdsim.py'),
+                              'invsim.sdsim.foo': ('sdsim.html#foo', 'invsim/sdsim.py')}}}
