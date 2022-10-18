@@ -4,6 +4,6 @@ project:
 website:
   title: "invsim"
   site-url: "https://akrishnamo.github.io/invsim"
-  description: ""
+  description: "Inventory simulation module for SD"
   repo-branch: main
   repo-url: "https://github.com/akrishnamo/invsim"
