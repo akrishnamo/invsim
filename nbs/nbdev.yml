@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "invsim"
+  site-url: "https://akrishnamo.github.io/invsim"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/akrishnamo/invsim"
